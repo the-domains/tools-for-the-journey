@@ -1,4 +1,3 @@
-layout_spectrum: 0.36888266378082335
 typography_spectrum: 0.03806470846757293
 color:
   brandStrength: 0.2407126654870808
@@ -11,5 +10,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
+layout_spectrum: 0.36888266378082335
 name: Tools for the Journey
 title: We are all on a Journey called Life
+description: Tools and Resources to help you walk your path
