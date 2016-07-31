@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-31T15:57:50.806Z'
+datePublished: '2016-07-31T16:00:49.122Z'
 sourcePath: _posts/2016-07-31-bright-lines-journal-now-available.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-31T15:57:49.957Z'
+dateModified: '2016-07-31T16:00:48.285Z'
 title: “Bright Lines Journal” now available!
 publisher: {}
 description: 'This book is for you if:'
