@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-07-31T15:36:00.266Z'
+datePublished: '2016-07-31T15:54:21.519Z'
 sourcePath: _posts/2016-07-31-bright-lines-journal-now-available.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-31T15:35:58.960Z'
+dateModified: '2016-07-31T15:54:20.658Z'
 title: “Bright Lines Journal” now available!
 publisher: {}
 description: 'This book is for you if:'
-hasPage: true
 starred: false
 url: bright-lines-journal-now-available/index.html
 _type: MediaObject
 
 ---
-![Fast Ways to Powerful Changes!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4deb7ee-69b9-4487-aff7-2e1123b40aca.png)
+![Fast Ways to Powerful Changes!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b786f2e5-a985-4280-ab91-d206b1917a72.png)
 
 # "Bright Lines Journal" now available!
 
