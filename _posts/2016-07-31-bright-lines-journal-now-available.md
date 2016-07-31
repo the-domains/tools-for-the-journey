@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-07-31T11:53:52.599Z'
+datePublished: '2016-07-31T15:28:07.988Z'
+sourcePath: _posts/2016-07-31-bright-lines-journal-now-available.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4deb7ee-69b9-4487-aff7-2e1123b40aca.png
 author: []
 via: {}
-dateModified: '2016-07-31T11:52:22.621Z'
+dateModified: '2016-07-31T15:28:07.030Z'
 title: “Bright Lines Journal” now available!
 publisher: {}
 description: 'This book is for you if:'
 starred: false
-sourcePath: _posts/2016-07-31-bright-lines-journal-now-available.md
 inFeed: true
 hasPage: false
 inNav: false
